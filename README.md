@@ -8,7 +8,7 @@ A modern, responsive web application for online music education, built with Next
   ⚡ Fast page loads with Next.js
   🎯 Type-safe development with TypeScript
   💅 Styled with Tailwind CSS
-  🧩 Component library with shadcn/ui
+  🧩 Component library with aceternity ui
   🎭 Smooth animations and transitions
   ♿ Accessible and SEO-optimized
 
@@ -16,5 +16,5 @@ A modern, responsive web application for online music education, built with Next
   Framework: Next.js 15
   Language: TypeScript
   Styling: Tailwind CSS
-  UI Components: shadcn/ui
+  UI Components: aceternity ui
 

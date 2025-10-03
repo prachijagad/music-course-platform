@@ -1,6 +1,6 @@
 # music-course-platform
 
-A modern, responsive web application for online music education, built with Next.js, TypeScript, and Tailwind CSS. This platform provides comprehensive music courses for beginners and advanced learners.
+A modern, responsive web application for online music education, built with Next.js, TypeScript, Tailwind CSS, and Aceternity UI. This platform offers comprehensive music courses for beginners and advanced learners featuring a beautiful and intuitive user experience.
 
 ✨ Features  
   🎨 Modern, sleek UI with dark theme
